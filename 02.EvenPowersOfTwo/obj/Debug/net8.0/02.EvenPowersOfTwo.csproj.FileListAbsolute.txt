@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.exe
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.dll
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.pdb
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.dll
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\refint\02.EvenPowersOfTwo.dll
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.pdb
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Nested Loops\NestedLoopsLab\02.EvenPowersOfTwo\obj\Debug\net8.0\ref\02.EvenPowersOfTwo.dll
